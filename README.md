@@ -18,34 +18,15 @@ Over the years, I’ve successfully built and maintained a wide range of systems
 
 ### 🚀 Core Expertise
 
-**Frontend Development**
-- React.js, Next.js, JavaScript
-- Tailwind CSS, Bootstrap
-- Responsive & component-based UI
-
-**Backend Development**
-- Node.js, Python
-- PHP (Laravel, CodeIgniter 3/4)
-- REST & GraphQL APIs
-
-**Web Applications**
-- ERP, POS, Accounting Systems
-- Custom Management Systems
-- School & College Management
-- E-commerce, Blogs, News Portals
-
-**UI / UX & Design**
-- PSD to HTML
-- Responsive Design
-- Component Libraries
-
-**Maintenance & Support**
-- Bug Fixing
-- Performance Optimization
-- Feature Enhancements
+| Area | Technologies & Experience |
+|-----|---------------------------|
+| **Frontend Development** | React.js, Next.js, JavaScript, Tailwind CSS, Bootstrap, Responsive UI |
+| **Backend Development** | Node.js, Python, PHP (Laravel, CodeIgniter 3/4), REST APIs, GraphQL |
+| **Web Applications** | ERP, POS, Accounting Systems, Custom Management Systems, School & College Management, E-commerce, Blogs, News Portals |
+| **UI / UX & Design** | PSD to HTML, Responsive Design, Component Libraries |
+| **Maintenance & Support** | Bug Fixing, Performance Optimization, Feature Enhancements |
 
 ---
-
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
