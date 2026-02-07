@@ -1,42 +1,71 @@
 ## Hi there 👋 I'm Safwan Alamgir
 
 🚀 Software Engineer | Frontend & Full-Stack Developer  
-💻 React, React Native, Expo, Next.js, Node.js  
-🌍 Passionate about building scalable, user-friendly products
+💻 React, Next.js, Node.js, Python, PHP  
+🌍 Building scalable, high-performance web applications
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **modern web & mobile applications**
-- 🌱 Exploring **React 19, Server Actions, performance optimization**
-- 👯 Open to collaborating on **open-source & startup projects**
-- 🤔 Interested in **clean architecture, DX, and UI/UX**
-- 💬 Ask me about **React, React Native, Expo Router, Appwrite, Docker**
-- ⚡ Fun fact: I love turning complex ideas into simple UI ✨
+I’m a **Software Engineer with 9+ years of experience** in web design and development, specializing in building **scalable, high-performance web applications**.
+
+My core expertise is focused on **React, Next.js, Node.js, Python, and PHP**, with deep hands-on experience delivering **production-ready solutions** across multiple industries.
+
+Over the years, I’ve successfully built and maintained a wide range of systems with **efficient cost and tight timelines**, handling both **frontend and backend responsibilities**.
+
+---
+
+### 🚀 Core Expertise
+
+**Frontend Development**
+- React.js, Next.js, JavaScript
+- Tailwind CSS, Bootstrap
+- Responsive & component-based UI
+
+**Backend Development**
+- Node.js, Python
+- PHP (Laravel, CodeIgniter 3/4)
+- REST & GraphQL APIs
+
+**Web Applications**
+- ERP, POS, Accounting Systems
+- Custom Management Systems
+- School & College Management
+- E-commerce, Blogs, News Portals
+
+**UI / UX & Design**
+- PSD to HTML
+- Responsive Design
+- Component Libraries
+
+**Maintenance & Support**
+- Bug Fixing
+- Performance Optimization
+- Feature Enhancements
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend**
-- React, React Native, Expo
-- Next.js, Vite
-- HTML, CSS, Tailwind, Bootstrap
-
-**Backend**
-- Node.js, Express
-- FastAPI
-- REST APIs
+**Languages & Frameworks**
+- JavaScript, React.js, Next.js
+- Node.js, Python, PHP
+- Laravel, CodeIgniter
 
 **Database**
 - PostgreSQL, MySQL
-- Appwrite
 
 **DevOps & Tools**
 - Docker, Git, GitHub
 - Linux, Nginx
 - VS Code
+
+---
+
+### ⭐ Top Skills
+
+**JavaScript • React.js • Next.js • Node.js • Python • PHP**
 
 ---
 
